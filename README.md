@@ -4,5 +4,6 @@ The present work develops node-based formulations for user equilibrium (UE) and 
 
 
 For more details, please refer to the following preprint:
+
 https://www.researchgate.net/publication/333105993_Dynamic_traffic_assignment_with_a_node-based_cell_transmission_model_satisfying_the_link-level_first-in-first-out_principle
 
