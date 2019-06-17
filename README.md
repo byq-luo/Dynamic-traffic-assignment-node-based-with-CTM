@@ -7,4 +7,5 @@ This paper develops node-based formulations for user equilibrium (UE) and system
 
 For more details, please refer to the preprint: https://engrxiv.org/85btc/
 
+Citation:
 Mayakuntla, S. K., & Verma, A. (2019, June 12). Dynamic traffic assignment with a node-based cell transmission model satisfying the link-level first-in-first-out principle. https://doi.org/10.31224/osf.io/85btc
